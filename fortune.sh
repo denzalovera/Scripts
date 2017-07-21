@@ -1,3 +1,3 @@
 # read my fortune linux
 
-fortune | cowsay -f tux
+fortune | cowsay -f vader-koala
