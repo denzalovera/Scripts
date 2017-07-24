@@ -1,6 +1,14 @@
+# files
 *.exe
 *.dll
 *.log
 *.javac
 *.pyc
 *.bat
+
+# directories
+env/
+venv/
+lin_env/
+.vscode/
+.idea/
