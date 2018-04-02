@@ -1,0 +1,1 @@
+sudo apt-get remove --autoremove intellij-idea-community intellij-idea-ultimate
