@@ -2,6 +2,22 @@ cd ~/Desktop
 mkdir FullCircleMagazine
 cd FullCircleMagazine
 
+wget http://dl.fullcirclemagazine.org/issue140_en.pdf
+wget http://dl.fullcirclemagazine.org/issue139_en.pdf
+wget http://dl.fullcirclemagazine.org/issue138_en.pdf
+wget http://dl.fullcirclemagazine.org/issue137_en.pdf
+wget http://dl.fullcirclemagazine.org/issue136_en.pdf
+wget http://dl.fullcirclemagazine.org/issue135_en.pdf
+wget http://dl.fullcirclemagazine.org/issue134_en.pdf
+wget http://dl.fullcirclemagazine.org/issue133_en.pdf
+wget http://dl.fullcirclemagazine.org/issue132_en.pdf
+wget http://dl.fullcirclemagazine.org/issue131_en.pdf
+wget http://dl.fullcirclemagazine.org/issue130_en.pdf
+wget http://dl.fullcirclemagazine.org/issue129_en.pdf
+wget http://dl.fullcirclemagazine.org/issue128_en.pdf
+wget http://dl.fullcirclemagazine.org/issue127_en.pdf
+wget http://dl.fullcirclemagazine.org/issue126_en.pdf
+wget http://dl.fullcirclemagazine.org/issue125_en.pdf
 wget http://dl.fullcirclemagazine.org/issue124_en.pdf
 wget http://dl.fullcirclemagazine.org/issue123_en.pdf
 wget http://dl.fullcirclemagazine.org/issue122_en.pdf
