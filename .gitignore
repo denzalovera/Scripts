@@ -12,3 +12,6 @@ venv/
 lin_env/
 .vscode/
 .idea/
+
+# sandbox
+sandbox
